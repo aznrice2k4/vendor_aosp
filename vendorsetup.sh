@@ -3,6 +3,7 @@ add_lunch_combo xylon_crespo4g-userdebug
 add_lunch_combo xylon_d2att-userdebug
 add_lunch_combo xylon_d2spr-userdebug
 add_lunch_combo xylon_d2vzw-userdebug
+add_lunch_combo xylon_evita-userdebug
 add_lunch_combo xylon_grouper-userdebug
 add_lunch_combo xylon_maguro-userdebug
 add_lunch_combo xylon_mako-userdebug
